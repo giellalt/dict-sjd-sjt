@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="rus">
+   <e>
+      <lg>
+         <l pos="v">я̄мме</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="яммед">jamm'ed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">коаннҍтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="палляд">pall'ad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ле̄шшэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="ле̄шшыд">lieššɨd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ышштэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="оаррэд">årred</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">вуэдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="выэдтэд">vɨedted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">по̄ннц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="поннц">ponnc</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вуэннч</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="выэннче">vɨennče</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">се̄ййп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="се̄ййп">siejjp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">лоаннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="лонньт">lonn't</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вэ̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="варр">varr</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">та̄ххьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="такта">takta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">маннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="манне">mann'e</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кӯлль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="кылле">kɨll'e</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кӯттҍк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="кыдд'кэ">kɨdd'ke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вӯйвас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="выйввс">vɨjvvs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">нюххчем</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="ныкчым">nɨkčɨm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ча̄дць</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="чадце">čadc'e</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">куллэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="куллыд">kullɨd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">тӣдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="те̄дтед">tiedt'ed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ма̄нн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="манна">manna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ыйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="йыйй">jɨjj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">пе̄ййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="пэйвве">peivv'e</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">кыррьтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="кыррьтэд">kɨrr'ted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">чуэннче</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="чыэнньчед">čɨenn'čed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">вӯйе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="выййед">vɨjjed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">мӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="мырр">mɨrr</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">вӣллкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="вилгись">vilgis'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">руччкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="ручькесь">ruč'kes'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">пугк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="пыгк">pɨgk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кунн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="кунн">kunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">чуэййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="че̄ййве">čiejjve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">шӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="шурр">šurr</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">чоаһпэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="чаһпысь">čahpɨs'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">раннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="ранньтэ">rann'te</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вӯйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="выйй">vɨjj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">кэлмас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="каллм">kallm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">пе̄ннэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="пе̄ный">pienɨj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">коашшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="кошькэсь">koš'kes'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">пе̄лльй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="пе̄лльйе">piellje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">еммьнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="йеммьнэ">jemm'ne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кэ̄ннц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="каннц">kannc</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">то̄лл</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="толл">toll</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ю̄лльк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="йиллькэ">jill'ke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">шӣг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="шувв">šuvv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вӯппт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="выпп">vɨpp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кӣдт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="кидт">kidt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вуеййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="выэййвэ">vɨejjve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">чуэррьв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="че̄ррьвэ">čierr've</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">поакас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="паккс">pakks</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">мунн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="монн">monn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">пӯллв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="пуввл">puvvl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">лэ̄сст</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="ласст">lasst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">куһкь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="кугкысь">kugkɨs'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">оалм-олма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="эрстолля">erstoll'a</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">па̄һкь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="лыэһке">lɨehke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">нэ̄мм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="намм">namm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">нышшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="нишкамант">niškamant</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">о̄дт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="одт">odt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">нюннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="ню̄ннь">niunn'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">э̄ххт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="num" ography="акт">akt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">олма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="олмый">olmɨj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">аббьр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="аббьрэ">abb're</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">рӯппсэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="рошкэсь">roškes'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вуэннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="эндас">endas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ёрпас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="ёрбысь">jorbɨs'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">вунтас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="вынс">vɨns</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">лышшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="лышшькэ">lɨšš'ke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">удць</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="a" ography="удць">udc'</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">сувв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="сывв">sɨvv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">та̄сс'т</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="тассьта">tass'ta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кеддҍк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="ке̄ддькэ">kiedd'ke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">та̄дт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="тадта">tadta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ка̄ццькэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="кадцькэд">kadc'ked</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">пӯлле</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="пыэлльтэд">pɨell'ted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">пуэдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="пыэдтэд">pɨedted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">югкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="югкид">jugkid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">по̄ррэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="поррыд">porrɨd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">аннҍтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="анньтэд">ann'ted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">це̄ӆӆькэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="це̄ллькэд">ciell'ked</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">уййнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v" ography="уййнэд">ujjned</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">кӯххт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" ography="кыкт">kɨkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">мӣ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="мӣ">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">ке̄</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="ке̄">kie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">то̄нн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pro" ography="тонн">tonn</t>
+         </tg>
+      </mg>
+   </e>
+</r>
